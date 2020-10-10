@@ -73,7 +73,9 @@ Go to `Appearance> Customize` in the admin panel.
 
 ### **Single Post Page**
 
-![single](https://github.com/janki28/assignment-theme/blob/main/assets/single%20post%20page.png)
+![single](https://github.com/janki28/assignment-theme/blob/main/assets/singlepost2.png)
+
+![single2](https://github.com/janki28/assignment-theme/blob/main/assets/single%20post%20page.png)
 
 ### **Portfolio Page**
 
