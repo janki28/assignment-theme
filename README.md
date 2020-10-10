@@ -59,3 +59,34 @@ Go to `Appearance> Customize` in the admin panel.
   + `About Author` : Introduce yourself by filling the contents. Add your custom Image.( This page will be visible when you click on `Contact Us` in the footer section ) 
 
 ## **Screenshots**
+### **Activate**
+
+![activate](https://github.com/janki28/assignment-theme/blob/main/assets/theme%20intro.PNG)
+
+### **Home Page**
+
+![homepage](https://github.com/janki28/assignment-theme/blob/main/assets/homepage.png)
+
+### **Blog Page**
+
+![blog](https://github.com/janki28/assignment-theme/blob/main/assets/blogpage.png)
+
+### **Single Post Page**
+
+![single](https://github.com/janki28/assignment-theme/blob/main/assets/single%20post%20page.png)
+
+### **Portfolio Page**
+
+![portfolio](https://github.com/janki28/assignment-theme/blob/main/assets/portfolio%20page.jpg)
+
+### **View Portfolio Image**
+
+![portimage](https://github.com/janki28/assignment-theme/blob/main/assets/portfolio%20view.jpg)
+
+### **Some Hover Effects**
+
+![hover](https://github.com/janki28/assignment-theme/blob/main/assets/hover.jpg)
+
+### **Sidebar**
+
+![sidebar](https://github.com/janki28/assignment-theme/blob/main/assets/sidebar.jpg)
