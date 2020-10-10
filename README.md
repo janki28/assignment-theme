@@ -90,3 +90,5 @@ Go to `Appearance> Customize` in the admin panel.
 ### **Sidebar**
 
 ![sidebar](https://github.com/janki28/assignment-theme/blob/main/assets/sidebar.jpg)
+
+![portsidebar](https://github.com/janki28/assignment-theme/blob/main/assets/portfolio-sidebar.png)
