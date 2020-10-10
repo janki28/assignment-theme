@@ -1,0 +1,195 @@
+/*
+	This is the sidebar css file for 
+	the custom sidebar layout of assignment-theme.
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Sidebar Styles
+# Portfolio Widget
+# Recent/Popular/Related posts
+# Archive widget
+--------------------------------------------------------------*/
+
+
+/*===========================================================
+        Sidebar Styles.
+===========================================================*/
+#secondary 
+{
+	margin-top: 50px;
+}
+
+#secondary .widget 
+{
+	margin-bottom: 50px;
+}
+
+#secondary .widget-title 
+{
+	position: relative;
+	padding: 0px 0 7px 0;
+	margin-bottom: 20px;
+	font-size: 25px;
+	color: #62585f;
+	text-shadow: 2px 0 #fff;
+	font-weight: lighter;
+}
+
+#secondary .widget-title:before 
+{
+	content: '';
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 1px;
+	background-color: #62585f;
+}
+
+/*===========================================================
+        Portfolio Widget.
+==========================================================*/
+#portfolio-widget-wrapper 
+{
+    margin: 0;
+    display: grid;
+    display: -ms-grid;
+    display: -moz-grid;
+    grid-template-columns: auto auto auto auto;
+    -ms-grid-columns: auto auto auto auto;
+    row-gap: 10px;
+    column-gap: 10px;
+    justify-content: space-between;
+}
+
+#portfolio-widget-wrapper div 
+{
+    position: relative;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#portfolio-widget-wrapper .entry-header
+{
+	display: none;
+}
+
+#portfolio-widget-wrapper .post-thumbnail img 
+{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+    object-position: all;
+}
+
+#portfolio-widget-wrapper .view-image 
+{
+    display: none;
+}
+
+/*===========================================================
+        Recent/Popular/Related posts.
+===========================================================*/
+#secondary ul
+{
+	padding: 0;
+	margin: 15px;
+	list-style-type: none;
+}
+
+#secondary li
+{
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+}
+
+#secondary .thumbnail .post-thumbnail 
+{
+    border-radius: 3px;
+    overflow: hidden;
+    margin: 0 0 15px 0;
+	padding:0;
+}
+
+#secondary .thumbnail img 
+{
+    height: 45px;
+    width: 50px;
+    object-fit: fill;
+    object-position: center;
+}
+
+#secondary ul li .posttitle,
+{ 
+	margin: 0;
+	padding:0;
+	width: 100%;
+	height: 50px;
+	overflow: hidden;
+}
+
+#secondary ul li .posttitle .para a,
+#secondary ul li a
+{
+	color: #62585f;
+}
+
+#secondary ul li .posttitle .para a:hover,
+#secondary ul li a:hover
+{
+	color: #ef4634;
+	text-decoration: none;
+}
+
+#secondary li .posttitle .author a
+{
+	color: #ef4634;
+	text-decoration: none;
+}
+
+#secondary li .posttitle .author a:hover
+{
+	text-decoration: underline;
+}
+
+/*===========================================================
+        Archive widget.
+===========================================================*/
+#secondary .widget_archive ul 
+{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+#secondary .widget_archive ul li 
+{
+	margin-bottom: 5px;
+}
+
+#secondary .widget_archive li a 
+{
+	font-size: 13px;
+	color: #62585f;
+	display: flex;
+}
+
+#secondary .widget_archive li a:hover 
+{
+	text-decoration: none;
+	color: #ef4634;
+}
+
+#secondary .widget_archive li a:before 
+{
+	padding-top: 1px;
+	font-family: dashicons;
+	content: "\f345";
+	display: inline-block;
+	margin-right: 2px;
+	color: #62585f;
+}

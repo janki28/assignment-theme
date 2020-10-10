@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-03 09:54+0530\n"
+"PO-Revision-Date: 2020-10-03 09:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_attr;__;_e;esc_url;esc_attr_e;"
+"esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:40
+msgid "Post your comment"
+msgstr ""
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:40
+msgid "Contact Us"
+msgstr ""
+
+#: footer.php:50 inc/customizer.php:238
+msgid "Email"
+msgstr ""
+
+#: functions.php:226
+msgid "Read More"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: home.php:30
+msgid "view all"
+msgstr ""
+
+#: home.php:49
+msgid "No Portfolio found! Please add some portfolio items in Portfolio."
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Header Services"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Display features?"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Image-1"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Title-1"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Description-1"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Image-2"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Title-2"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Description-2"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Image-3"
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Title-3"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Description-3"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Contact info(use '<br>' for new line)"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Social Media"
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid ""
+"Leave a Comment"
+" on "
+msgstr ""
+
+#: inc/template-tags.php:195
+#, php-format
+msgid " said on "
+msgstr ""
+
+#: inc/template-tags.php:201
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:205
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/widgets.php:14
+msgid "Displays your Portfolio Items."
+msgstr ""
+
+#: inc/widgets.php:58
+msgid "Looks like there are no items in the Portfolio."
+msgstr ""
+
+#: inc/widgets.php:80
+msgid "Title:"
+msgstr ""
+
+#: page-templates/blog-template.php:53 single.php:155
+msgid "Popular Posts"
+msgstr ""
+
+#: page-templates/blog-template.php:94 single.php:203
+msgid "Archive"
+msgstr ""
+
+#: page-templates/blog-template.php:106
+msgid "Latest Tweet"
+msgstr ""
+
+#: page-templates/portfolio-template.php:71
+msgid "Sorry, no portfolio items found."
+msgstr ""
+
+#: single.php:31
+msgid "Comments"
+msgstr ""
+
+#: single.php:51
+msgid "Related Posts"
+msgstr ""
+
+#: single.php:113
+msgid "Recent Posts"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? Get started here."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:39
+#, php-format
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content.php:42
+#, php-format
+msgid "Continue reading"
+msgstr ""
