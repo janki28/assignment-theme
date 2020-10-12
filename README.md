@@ -65,32 +65,32 @@ Go to `Appearance> Customize` in the admin panel.
 
 ### **Home Page**
 
-![homepage](https://github.com/janki28/assignment-theme/blob/main/assets/homepage.png)
+![homepage](https://github.com/janki28/assignment-theme/blob/main/SCREENSHOTS/homepage.png)
 
 ### **Blog Page**
 
-![blog](https://github.com/janki28/assignment-theme/blob/main/assets/blogpage.png)
+![blog](https://github.com/janki28/assignment-theme/blob/main/SCREENSHOTS/blogpage.png)
 
 ### **Single Post Page**
 
-![single](https://github.com/janki28/assignment-theme/blob/main/assets/singlepost2.png)
+![single](https://github.com/janki28/assignment-theme/blob/main/SCREENSHOTS/singlepost2.png)
 
-![single2](https://github.com/janki28/assignment-theme/blob/main/assets/single%20post%20page.png)
+![single2](https://github.com/janki28/assignment-theme/blob/main/SCREENSHOTS/single%20post%20page.png)
 
 ### **Portfolio Page**
 
-![portfolio](https://github.com/janki28/assignment-theme/blob/main/assets/portfolio%20page.jpg)
+![portfolio](https://github.com/janki28/assignment-theme/blob/main/SCREENSHOTS/portfolio%20page.jpg)
 
 ### **View Portfolio Image**
 
-![portimage](https://github.com/janki28/assignment-theme/blob/main/assets/portfolio%20view.jpg)
+![portimage](https://github.com/janki28/assignment-theme/blob/main/SCREENSHOTS/portfolio%20view.jpg)
 
 ### **Some Hover Effects**
 
-![hover](https://github.com/janki28/assignment-theme/blob/main/assets/hover.jpg)
+![hover](https://github.com/janki28/assignment-theme/blob/main/SCREENSHOTS/hover.jpg)
 
 ### **Sidebar**
 
-![sidebar](https://github.com/janki28/assignment-theme/blob/main/assets/sidebar.jpg)
+![sidebar](https://github.com/janki28/assignment-theme/blob/main/SCREENSHOTS/sidebar.jpg)
 
-![portsidebar](https://github.com/janki28/assignment-theme/blob/main/assets/portfolio-sidebar.png)
+![portsidebar](https://github.com/janki28/assignment-theme/blob/main/SCREENSHOTS/portfolio-sidebar.png)
