@@ -23,11 +23,10 @@ $query = new WP_Query( array(
 
 	<div id="view-image-container">
 		<div class="content-wrapper">
-			<img src="" />
-			<span class="close">
-			<span class="dashicons dashicons-no-alt"></span>
-			</span>
-		</div>
+				<img src="" />
+				<span class="close">
+					<span class="dashicons dashicons-no-alt"></span>
+				</span>
 		</div>
 	</div>
 

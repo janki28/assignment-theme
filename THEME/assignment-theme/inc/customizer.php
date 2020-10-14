@@ -295,7 +295,7 @@ function custom_theme_author_setting( $wp_customize )
 
 
 	// Photo
-	$wp_customize -> add_setting( 'author-image',array('default'		=>	 get_avatar($curauth->user_email) ));
+	$wp_customize -> add_setting( 'author-image');
 
 	$wp_customize -> add_control( new WP_Customize_Cropped_Image_Control( $wp_customize, 'author-image',
 	array(

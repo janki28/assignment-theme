@@ -71,7 +71,7 @@
                                     <div class="author-bar">
                                         <span class="author">by 
                                             <a href="<?php get_the_author_link(); ?>">
-                                                <?php echo get_author_name(); ?>
+                                                <?php echo get_the_author_meta('display_name'); ?>
                                             </a> on 
                                             <?php echo get_the_date( 'd M Y'); ?>
                                         </span>

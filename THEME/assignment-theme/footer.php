@@ -43,7 +43,7 @@
 								$current_user = wp_get_current_user();
 								$current_user->user_login;
 							?>
-							<a href="<?php echo get_site_url() . '/author/' . $current_user->user_login ?>"> <?php esc_html_e( 'Contact Us' ); ?>
+							<a href="<?php echo get_site_url() . '/author/' . $current_user->user_login ?>"> <?php esc_html_e( 'Contact Us' ); ?></a>
 						</p>
 						<p class="contact-us">
 						<p class="address"> 
@@ -113,16 +113,16 @@
 		<div class="site-info container">
 			<p>
 					<?php
-						printf( esc_html__( "© 2012 - D'SIGNfly", 'assignment-theme' ), );
+						echo esc_html__( "© 2012 - D'SIGNfly", 'assignment-theme' );
 					?>
 				<span class="sep"> | </span>
 					<?php
-						printf( esc_html__( 'Designed by', 'assignment-theme' ),); 
+						echo esc_html__( 'Designed by', 'assignment-theme' ); 
 					?>
 					<a href="http://rtcamp.com/">rtCamp</a> 
 				<span class="sep"> | </span>
 					<?php
-						printf( esc_html__( 'Redone by', 'assignment-theme' ),); 
+						echo esc_html__( 'Redone by', 'assignment-theme' ); 
 					?>
 					<a href="https://janki1028.wordpress.com/">Janki</a> 
 			</p>

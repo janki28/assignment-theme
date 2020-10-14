@@ -35,16 +35,6 @@
         $(this).parent().parent().css('display', 'none');
     });
 
-    $( '#view-image-container .leftarrow' ).on('click', function() 
-    {
-
-    });
-
-     $( '#view-image-container .rightarrow' ).on('click', function() 
-    {
-        
-    });
-
     // all image hover effects
     $('#header-search-button').hover( function() {
         $(this).attr('src', template_directory + '/assets/image/search-icon-hover.png');
