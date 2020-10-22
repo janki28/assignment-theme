@@ -3,7 +3,11 @@
 Hello I am [Janki](https://janki1028.wordpress.com/).
 This theme is developed during the WordPress Training Program provided by [rtCamp](https://rtcamp.com). You can also find my WordPress Learning Report [here](). 
 
-The requirements for the theme can be found [here](https://learn.rtcamp.com/topic/task-theme-development-assignment/).
+The **requirements** for the theme can be found [here](https://learn.rtcamp.com/topic/task-theme-development-assignment/).
+
+The working **demo** can be found [here](https://jankiassignment-theme.000webhostapp.com/). This demo consists of theme as well as Books plugin demo.
+
+**Note: The demo link is only for demonstration purpose. It includes limited posts.** 
 
 ## **Description**
 ## The main directories and files include:
