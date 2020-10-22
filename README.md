@@ -1,7 +1,7 @@
 # **Assignment Theme**
 
 Hello I am [Janki](https://janki1028.wordpress.com/).
-This theme is developed during the WordPress Training Program provided by [rtCamp](https://rtcamp.com). You can also find my WordPress Learning Report [here](). 
+This theme is developed during the WordPress Training Program provided by [rtCamp](https://rtcamp.com). You can also find my WordPress Learning Report [here](https://janki1028.wordpress.com/2020/10/14/time-to-wrap-up/). 
 
 The **requirements** for the theme can be found [here](https://learn.rtcamp.com/topic/task-theme-development-assignment/).
 
