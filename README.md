@@ -5,7 +5,7 @@ This theme is developed during the WordPress Training Program provided by [rtCam
 
 The **requirements** for the theme can be found [here](https://learn.rtcamp.com/topic/task-theme-development-assignment/).
 
-The working **demo** can be found [here](https://jankiassignment-theme.000webhostapp.com/). This demo consists of theme as well as Books plugin demo.
+The working **demo** can be found [here](http://janki-assignmenttheme.atwebpages.com/). This demo consists of theme as well as Books plugin demo.
 
 **Note: The demo link is only for demonstration purpose. It includes limited posts.** 
 
