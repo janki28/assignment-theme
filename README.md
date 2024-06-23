@@ -1,7 +1,7 @@
 # **Assignment Theme**
 
-Hello I am [Janki](https://janki1028.wordpress.com/).
-This theme is developed during the WordPress Training Program provided by [rtCamp](https://rtcamp.com). You can also find my WordPress Learning Report [here](https://janki1028.wordpress.com/2020/10/14/time-to-wrap-up/). 
+Hello I am [Janki](https://thevisualventurer.wordpress.com/).
+This theme is developed during the WordPress Training Program provided by [rtCamp](https://rtcamp.com). You can also find my WordPress Learning Report [here](https://thevisualventurer.wordpress.com/2020/10/14/time-to-wrap-up/). 
 
 The **requirements** for the theme can be found [here](https://learn.rtcamp.com/topic/task-theme-development-assignment/).
 
@@ -43,7 +43,7 @@ This Theme is not available on WordPress marketplace, thus you will have to manu
   2. Go to WordPress website root directory and navigate to `wp-content\theme` folder.
   3. Extract the zip here.
   4. Login to WordPress admin panel and navigate to `Appearance\Themes`.
-  5. A new theme named `Theme Assignment` by [Janki](https://janki1028.wordpress.com/) should be available.
+  5. A new theme named `Theme Assignment` by [Janki](https:/thevisualventurer.wordpress.com/) should be available.
   6. Click on `Activate`.
   
 **Here are the steps to set-up the theme**
